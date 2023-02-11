@@ -71,7 +71,8 @@ button {
   position: absolute;
   top: 0;
   height: 100%;
-  right: 0;
+  width: 100%;
+  left: 0;
 }
 
 .about h1 {
